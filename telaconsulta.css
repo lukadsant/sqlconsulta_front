@@ -1,0 +1,623 @@
+.telaconsulta-container {
+  min-height: 100vh;
+}
+.telaconsulta-desktop5 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(251, 251, 251, 1);
+}
+.telaconsulta-grupoformulario {
+  top: 255px;
+  left: 895px;
+  width: 396px;
+  height: 514px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.telaconsulta-marcafps33 {
+  top: 0px;
+  left: 94px;
+  width: 209px;
+  height: 86px;
+  position: absolute;
+  border-color: transparent;
+}
+.telaconsulta-grupoformulariotextos {
+  top: 118px;
+  left: 0px;
+  width: 396px;
+  height: 396px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.telaconsulta-grupoformulariotitulos {
+  top: 0px;
+  left: 36px;
+  width: 323px;
+  height: 82px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.telaconsulta-text {
+  left: 24px;
+  color: var(--dl-color-default-gray2);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Rubik;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telaconsulta-text02 {
+  top: 44px;
+  color: var(--dl-color-default-gray2);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Rubik;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telaconsulta-grupoformularioinputs-button {
+  top: 146px;
+  left: 0px;
+  width: 396px;
+  height: 250px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.telaconsulta-button {
+  top: 208px;
+  left: 129px;
+  width: 139px;
+  height: 42px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 100px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-green1);
+}
+.telaconsulta-statelayer {
+  display: flex;
+  padding: 10px 24px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.telaconsulta-text07 {
+  color: var(--dl-color-m3_sys_light-onprimary);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.telaconsulta-grupoformularioinputs {
+  top: 0px;
+  left: 0px;
+  width: 396px;
+  height: 144px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.telaconsulta-textfield {
+  top: 88px;
+  left: 0px;
+  width: 396px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px 4px 0 0;
+  flex-direction: column;
+}
+.telaconsulta-textfield1 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(121, 116, 126, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.telaconsulta-statelayer1 {
+  display: flex;
+  padding: 8px 0 8px 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px 4px 0 0;
+}
+.telaconsulta-content {
+  width: 348px;
+  height: 21px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.telaconsulta-inputtext {
+  color: rgba(130, 130, 130, 1);
+  display: flex;
+  width: 95%;
+  outline: none;
+  position: relative;
+  font-size: 16px;
+  text-align: left;
+  align-items: center;
+  font-family: Roboto;
+  font-weight: 400;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.telaconsulta-textfield1:hover{
+  border-color:rgba(103, 80, 164, 1)
+}
+.telaconsulta-textfield3:hover{
+  border-color:rgba(103, 80, 164, 1)
+}
+.telaconsulta-labeltext {
+  top: -16px;
+  left: -4px;
+  display: flex;
+  padding: 0 4px;
+  z-index: 1;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  background-color: var(--dl-color-m3_sys_light-surface);
+}
+.telaconsulta-text09 {
+  color: var(--dl-color-m3_sys_light-onsurface);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 16px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.telaconsulta-icon {
+  width: 24px;
+  height: 24px;
+}
+.telaconsulta-menuwith-textfield-example1 {
+  top: 0px;
+  left: 0px;
+  width: 396px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.telaconsulta-textfield2 {
+  height: 56px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px 4px 0 0;
+  flex-direction: column;
+}
+.telaconsulta-textfield3 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(121, 116, 126, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.telaconsulta-statelayer2 {
+  display: flex;
+  padding: 4px 0 4px 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px 4px 0 0;
+}
+.telaconsulta-content1 {
+  width: 332px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+  justify-content: center;
+}
+.telaconsulta-inputtext1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.telaconsulta-text11 {
+  color: var(--dl-color-default-gray3);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.telaconsulta-caret {
+  width: 0px;
+  height: 16px;
+  position: relative;
+}
+.telaconsulta-labeltext1 {
+  top: -16px;
+  left: -4px;
+  display: flex;
+  padding: 0 4px;
+  z-index: 1;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  background-color: var(--dl-color-m3_sys_light-surface);
+}
+.telaconsulta-text13 {
+  color: var(--dl-color-m3_sys_light-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 16px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.telaconsulta-trailingicon {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.telaconsulta-container1 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 100px;
+  justify-content: center;
+}
+.telaconsulta-statelayer3 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.telaconsulta-marcafps32 {
+  top: 261px;
+  left: 1008px;
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-color: transparent;
+}
+.telaconsulta-snackbar {
+  top: 139px;
+  left: 1062px;
+  width: 344px;
+  height: 68px;
+  display: flex;
+  padding: 10px 0 10px 16px;
+  position: absolute;
+  box-shadow: 0px 4px 8px 3px rgba(0, 0, 0, 0.15000000596046448) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  background-color: var(--dl-color-default-green2);
+}
+.telaconsulta-text15 {
+  color: var(--dl-color-m3_sys_light-inverseonsurface);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.telaconsulta-iconbutton {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.telaconsulta-container2 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 100px;
+  justify-content: center;
+}
+.telaconsulta-statelayer4 {
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.telaconsulta-iconsclose24px {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.telaconsulta-frame13 {
+  top: 52px;
+  left: 49px;
+  width: 630px;
+  height: 920px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.telaconsulta-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 630px;
+  height: 920px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.telaconsulta-frame {
+  top: 608px;
+  left: 363px;
+  width: 250px;
+  height: 278px;
+  opacity: 0.25;
+  position: absolute;
+}
+.telaconsulta-frame1 {
+  top: 29px;
+  left: 11px;
+  width: 189px;
+  height: 393px;
+  opacity: 0.15;
+  position: absolute;
+}
+.telaconsulta-s-v-g7878959businessmultitaskingmultitaskmultipletas {
+  top: 212px;
+  left: 11px;
+  width: 725px;
+  height: 725px;
+  position: absolute;
+}
+.telaconsulta-text17 {
+  top: 919px;
+  left: 876px;
+  color: var(--dl-color-default-gray3);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Rubik;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.telaconsulta-snackbar1 {
+  top: 52px;
+  left: 1058px;
+  width: 344px;
+  height: 68px;
+  display: flex;
+  padding: 10px 0 10px 16px;
+  position: absolute;
+  box-shadow: 0px 4px 8px 3px rgba(0, 0, 0, 0.15000000596046448) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  background-color: var(--dl-color-default-red);
+}
+.telaconsulta-text22 {
+  color: var(--dl-color-m3_sys_light-inverseonsurface);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.telaconsulta-iconbutton1 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.telaconsulta-container3 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 100px;
+  justify-content: center;
+}
+.telaconsulta-statelayer5 {
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.telaconsulta-iconsclose24px1 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+@media(max-width: 479px) {
+  .telaconsulta-desktop5 {
+    margin-right: 0px;
+  }
+  .telaconsulta-grupoformulario {
+    top: 317px;
+    left: 5%;
+    right: 18px;
+  }
+  .telaconsulta-grupoformulariotextos {
+    left: 9%;
+  }
+  .telaconsulta-snackbar {
+    top: 236px;
+    left: 87px;
+  }
+  .telaconsulta-frame13 {
+    width: 393px;
+  }
+  .telaconsulta-rectangle8 {
+    width: 427px;
+    height: 179px;
+  }
+  .telaconsulta-s-v-g7878959businessmultitaskingmultitaskmultipletas {
+    top: -118px;
+    left: 203px;
+    width: 190px;
+    height: 408px;
+  }
+  .telaconsulta-text17 {
+    left: 7%;
+  }
+  .telaconsulta-snackbar1 {
+    top: 308px;
+    left: 87px;
+  }
+}
